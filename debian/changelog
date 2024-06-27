@@ -1,3 +1,9 @@
+raspi-config (20231012-0ubuntu1) focal; urgency=medium
+
+  * Build for Ubuntu Focal
+
+ -- Yufei Miao <m.yufei@wustl.edu>  Thu, 27 Jun 2024 05:14:02 +0000
+
 raspi-config (20231012~bullseye) bullseye; urgency=medium
 
   [ Dom Cobley ]
