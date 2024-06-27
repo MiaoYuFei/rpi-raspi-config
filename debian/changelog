@@ -1,3 +1,10 @@
+raspi-config (20240625-0ubuntu1) noble; urgency=medium
+
+  * Build for Ubuntu Noble
+  * Use libraspberrypi-bin instead of raspi-utils
+
+ -- Yufei Miao <m.yufei@wustl.edu>  Thu, 27 Jun 2024 06:20:32 +0000
+
 raspi-config (20240625) bookworm; urgency=medium
 
   [ Simon Long ]
