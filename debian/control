@@ -1,7 +1,8 @@
 Source: raspi-config
 Section: utils
 Priority: optional
-Maintainer: Serge Schneider <serge@raspberrypi.com>
+Maintainer: Yufei Miao <miao1381106@gmail.com>
+XSBC-Original-Maintainer: Serge Schneider <serge@raspberrypi.com>
 Build-Depends: debhelper-compat (= 13), shunit2 <!nocheck>
 Standards-Version: 4.3.0
 Vcs-Git: https://github.com/RPi-Distro/raspi-config.git
@@ -10,7 +11,7 @@ Vcs-Browser: https://github.com/RPi-Distro/raspi-config
 Package: raspi-config
 Architecture: all
 Depends: ${misc:Depends}, raspi-config-core, whiptail, parted, alsa-utils,
- psmisc, raspi-utils-core, dconf-cli, bsdextrautils
+ psmisc, libraspberrypi-bin, dconf-cli, bsdextrautils
 Recommends: iw
 Description: Raspberry Pi configuration tool
  A simple configuration tool for common Raspberry Pi administrative tasks
