@@ -1,3 +1,9 @@
+raspi-config (20251202) resolute; urgency=medium
+
+  New upstream version 20251202 for ubuntu/resolute
+
+ -- Yufei Miao <miao1381106@gmail.com>  Mon, 22 Dec 2025 12:54:08 +0000
+
 raspi-config (20251202) trixie; urgency=medium
 
   [ David Vasquez ]
